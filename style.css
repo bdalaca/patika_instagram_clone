@@ -1,0 +1,25 @@
+.etiket {
+    color: white;
+}
+
+.navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 9999;
+}
+
+.menu {
+    position: fixed;
+    right: 10%;
+    top: 5rem;
+    z-index: 9999;
+}
+
+::placeholder {
+    text-align: start;
+    font-size: 14px;
+    color: gray;
+    background-position: 40%;
+}
